@@ -1,0 +1,50 @@
+MongoDB shell version v4.2.6
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("951ac6fb-b2eb-4f93-b348-8295bbf942a0") }
+MongoDB server version: 4.2.6
+{
+	"_id" : ObjectId("5ebed5e7a4904b64906a0b1d"),
+	"sex" : "Female",
+	"first_name" : "Irene",
+	"last_name" : "Taylor",
+	"job" : "Assistant Manager",
+	"email" : "itaylor24@i2i.jp",
+	"location" : {
+		"city" : "Jujur",
+		"address" : {
+			"streetname" : "Waywood",
+			"streetnumber" : "3178"
+		}
+	},
+	"description" : "non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet",
+	"height" : "149.11",
+	"weight" : "77.17",
+	"birth_date" : "1982-01-26T07:18:14Z",
+	"nationality" : "Indonesia",
+	"credit" : [
+		{
+			"type" : "diners-club-carte-blanche",
+			"number" : "3534744838557751",
+			"currency" : "CNY",
+			"balance" : "3985.22"
+		},
+		{
+			"type" : "jcb",
+			"number" : "5108750390261188",
+			"currency" : "LKR",
+			"balance" : "5406.38"
+		},
+		{
+			"type" : "jcb",
+			"number" : "501843955527347978",
+			"currency" : "PHP",
+			"balance" : "4078.12"
+		},
+		{
+			"type" : "visa-electron",
+			"number" : "630426137950631812",
+			"currency" : "PHP",
+			"balance" : "4939.45"
+		}
+	]
+}

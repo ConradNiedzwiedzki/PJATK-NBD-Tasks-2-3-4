@@ -1,0 +1,33 @@
+// Zadanie 1:
+curl -i –XPUT -H "Content-Type: application/json" -d '{ "rodzaj": "film", "nazwa": "Django", "rok": 2012, "czyWKinach": false}' http://127.0.0.1:8098/buckets/s19450/keys/Django?returnbody=true
+curl -i –XPUT -H "Content-Type: application/json" -d '{ "rodzaj": "serial", "nazwa": "Narcos", "rok": 2015, "czyWKinach": false}' http://127.0.0.1:8098/buckets/s19450/keys/Narcos?returnbody=true
+curl -i –XPUT -H "Content-Type: application/json" -d '{ "rodzaj": "film", "nazwa": "Joker", "rok": 2019, "czyWKinach": true}' http://127.0.0.1:8098/buckets/s19450/keys/Joker?returnbody=true
+curl -i –XPUT -H "Content-Type: application/json" -d '{ "rodzaj": "serial", "nazwa": "Kalifat", "rok": 2020, "czyWKinach": true}' http://127.0.0.1:8098/buckets/s19450/keys/Kalifat?returnbody=true
+curl -i –XPUT -H "Content-Type: application/json" -d '{ "rodzaj": "film", "nazwa": "Gladiator", "rok": 2000, "czyWKinach": false}' http://127.0.0.1:8098/buckets/s19450/keys/Gladiator?returnbody=true
+
+// Zadanie 2:
+curl -i -XGET http://127.0.0.1:8098/buckets/s19450/keys/Joker
+
+// Zadanie 3:
+curl -i –XPUT -H "Content-Type: application/json" -d '{ "rodzaj": "film", "nazwa": "Django", "rok": 2012, "czyWKinach": false, "rezyser": "Quentin Tarantino"}' http://127.0.0.1:8098/buckets/s19450/keys/Django?returnbody=true
+
+// Zadanie 4:
+curl -i –XPUT -H "Content-Type: application/json" -d '{ "rodzaj": "serial", "nazwa": "Kalifat", "rok": 2020}' http://127.0.0.1:8098/buckets/s19450/keys/Kalifat?returnbody=true
+
+// Zadanie 5:
+curl -i –XPUT -H "Content-Type: application/json" -d '{ "rodzaj": "film", "nazwa": "Joker", "rok": 2019, "czyWKinach": false}' http://127.0.0.1:8098/buckets/s19450/keys/Joker?returnbody=true
+
+// Zadanie 6:
+curl -v -XDELETE http://127.0.0.1:8098/buckets/s19450/keys/Gladiator?returnbody=true
+
+// Zadanie 7:
+curl -i -XGET http://127.0.0.1:8098/buckets/s19450/keys/Gladiator
+
+// Zadanie 8:
+curl -i –XPUT -H "Content-Type: application/json" -d '{"nazwa": "Drive"}' http://127.0.0.1:8098/buckets/s19450/keys/?returnbody=true
+
+// Zadanie 9:
+curl -i –XGET http://127.0.0.1:8098/buckets/s19450/keys/Zzi6ETeQbJeBtqeucMUEUqAIKai
+
+// Zadanie 10:
+curl -v -XDELETE http://127.0.0.1:8098/buckets/s19450/keys/Zzi6ETeQbJeBtqeucMUEUqAIKai

@@ -1,0 +1,71 @@
+MongoDB shell version v4.2.6
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("6999d171-d318-4c99-b09e-5b493c1584f7") }
+MongoDB server version: 4.2.6
+[
+	{
+		"_id" : "JPY",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "CNY",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "PHP",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "BOB",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "PEN",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "KRW",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "VND",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "SEK",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "LYD",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "EUR",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "ARS",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "IDR",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	},
+	{
+		"_id" : "NGN",
+		"summed_balance" : 0,
+		"avg_balance" : null
+	}
+]

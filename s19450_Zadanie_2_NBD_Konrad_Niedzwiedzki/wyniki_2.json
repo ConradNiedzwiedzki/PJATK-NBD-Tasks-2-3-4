@@ -1,0 +1,56 @@
+MongoDB shell version v4.2.6
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("a75805bb-c686-4f0d-b1d5-8dac84420a07") }
+MongoDB server version: 4.2.6
+{
+	"_id" : ObjectId("5ebed5e7a4904b64906a0b29"),
+	"sex" : "Female",
+	"first_name" : "Wanda",
+	"last_name" : "Burton",
+	"job" : "Civil Engineer",
+	"email" : "wburton2g@angelfire.com",
+	"location" : {
+		"city" : "Liangnong",
+		"address" : {
+			"streetname" : "Summer Ridge",
+			"streetnumber" : "36"
+		}
+	},
+	"description" : "feugiat et eros vestibulum ac est lacinia nisi venenatis tristique",
+	"height" : "144.76",
+	"weight" : "67.48",
+	"birth_date" : "2010-12-24T08:13:55Z",
+	"nationality" : "China",
+	"credit" : [
+		{
+			"type" : "jcb",
+			"number" : "5108757148704120",
+			"currency" : "CNY",
+			"balance" : "5498.57"
+		},
+		{
+			"type" : "visa",
+			"number" : "3542167225984711",
+			"currency" : "EUR",
+			"balance" : "3505.44"
+		},
+		{
+			"type" : "jcb",
+			"number" : "3567196406261250",
+			"currency" : "CNY",
+			"balance" : "4788.92"
+		},
+		{
+			"type" : "laser",
+			"number" : "6761735984962787006",
+			"currency" : "UAH",
+			"balance" : "3794.45"
+		},
+		{
+			"type" : "diners-club-enroute",
+			"number" : "3579577091971178",
+			"currency" : "SEK",
+			"balance" : "4952.06"
+		}
+	]
+}

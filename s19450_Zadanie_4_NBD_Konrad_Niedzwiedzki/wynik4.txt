@@ -1,0 +1,13 @@
+curl: (6) Could not resolve host: xn--xput-z86a
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fjpO3iYFEUpkymNlsPnufoMvCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s19450>; rel="up"
+Last-Modified: Sun, 31 May 2020 09:39:08 GMT
+ETag: "4doOsc1VVxNd0EMl7pK56H"
+Date: Sun, 31 May 2020 09:39:08 GMT
+Content-Type: application/json
+Content-Length: 54
+
+{ "rodzaj": "serial", "nazwa": "Kalifat", "rok": 2020}

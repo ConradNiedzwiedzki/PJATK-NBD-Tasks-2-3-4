@@ -1,0 +1,446 @@
+MongoDB shell version v4.2.6
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("6d374069-4d9d-4ba3-b15b-410fd4fc2ee3") }
+MongoDB server version: 4.2.6
+[
+	{
+		"_id" : "RON",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "TZS",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "BAM",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "SAR",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "MXN",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "RUB",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "DOP",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "CRC",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "ILS",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "DKK",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "JOD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "MZN",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "CAD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "XPF",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "UGX",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "SDG",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "XOF",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "ANG",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "MKD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "KHR",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "BHD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "TJS",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "SOS",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "HNL",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "UYU",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "ZWL",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "RSD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "PAB",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "EGP",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "UAH",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "KRW",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "SYP",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "AFN",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "NOK",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "EUR",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "AUD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "CLP",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "PYG",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "XCD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "KZT",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "TND",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "HUF",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "CUP",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "KES",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "MYR",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "CZK",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "BRL",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "COP",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "MGA",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "NIO",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "AMD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "ARS",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "PLN",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "YER",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "KMF",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "NGN",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "KGS",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "BGN",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "MAD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "JMD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "TRY",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "HRK",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "IRR",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "PEN",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "DJF",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "USD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "CDF",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "IDR",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "BWP",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "ETB",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "UZS",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "AZN",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "TWD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "NAD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "HTG",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "GMD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "SLL",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "BOB",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "ZMW",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "BSD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "AED",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "VND",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "PKR",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "LYD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "MMK",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "ISK",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "HKD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "NZD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "THB",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "MUR",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "KPW",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "MNT",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "GTQ",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "ALL",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "XAF",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "LAK",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "LKR",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "ZAR",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "IQD",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "BYR",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "JPY",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "CNY",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "PHP",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "VEF",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "GEL",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "LTL",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "SEK",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "MWK",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "GBP",
+		"summed_balance" : 0
+	},
+	{
+		"_id" : "ERN",
+		"summed_balance" : 0
+	}
+]

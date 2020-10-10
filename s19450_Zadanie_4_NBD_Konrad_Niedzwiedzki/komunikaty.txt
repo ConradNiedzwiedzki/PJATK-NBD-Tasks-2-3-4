@@ -1,0 +1,6 @@
+Dodano nowy rekord. Pobieram dodany rekord:
+{u'rodzaj': u'film', u'rok': 2020, u'nazwa': u'Magnezja', u'czyWKinach': True}
+Rekord zostal zmodyfikowany. Pobieram zmodyfikowany rekord:
+{u'rodzaj': u'serial', u'rok': 2020, u'nazwa': u'Magnezja'}
+Usunieto rekord. Probuje pobrac usuniety rekord:
+None

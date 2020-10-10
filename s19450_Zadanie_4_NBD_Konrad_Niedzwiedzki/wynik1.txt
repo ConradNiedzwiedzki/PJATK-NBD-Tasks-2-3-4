@@ -1,0 +1,75 @@
+s19450 created
+
+curl: (6) Could not resolve host: xn--xput-z86a
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fjrO4OKBCCUy5rEy2D10v8GXBQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s19450>; rel="up"
+Last-Modified: Sun, 31 May 2020 08:05:18 GMT
+ETag: "2ytnEZdo32du5gLH4djC0l"
+Date: Sun, 31 May 2020 08:05:18 GMT
+Content-Type: application/json
+Content-Length: 72
+
+{ "rodzaj": "film", "nazwa": "Django", "rok": 2012, "czyWKinach": false}
+
+
+curl: (6) Could not resolve host: xn--xput-z86a
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fjrO/BkHEUpkzGNlOPjI/QZfFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s19450>; rel="up"
+Last-Modified: Sun, 31 May 2020 08:11:45 GMT
+ETag: "4uYLS9n47qwZYJXHEftHZ8"
+Date: Sun, 31 May 2020 08:11:45 GMT
+Content-Type: application/json
+Content-Length: 74
+
+{ "rodzaj": "serial", "nazwa": "Narcos", "rok": 2015, "czyWKinach": false}
+
+
+curl: (6) Could not resolve host: xn--xput-z86a
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fjpOO+INEUpkzGNlOP7Y/QZfFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s19450>; rel="up"
+Last-Modified: Sun, 31 May 2020 08:16:07 GMT
+ETag: "7lw5p8aB5iRfhs1Ztg3Rp"
+Date: Sun, 31 May 2020 08:16:07 GMT
+Content-Type: application/json
+Content-Length: 70
+
+{ "rodzaj": "film", "nazwa": "Joker", "rok": 2019, "czyWKinach": true}
+
+
+curl: (6) Could not resolve host: xn--xput-z86a
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fjpO3iYFEUpkzGNlcH3ifoMvCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s19450>; rel="up"
+Last-Modified: Sun, 31 May 2020 08:18:13 GMT
+ETag: "5sqwgIuFAY1JIVPGdZw9ZW"
+Date: Sun, 31 May 2020 08:18:13 GMT
+Content-Type: application/json
+Content-Length: 74
+
+{ "rodzaj": "serial", "nazwa": "Kalifat", "rok": 2020, "czyWKinach": true}
+
+
+curl: (6) Could not resolve host: xn--xput-z86a
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fjpOE9kJEUpkzGNl8HznfoMvCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s19450>; rel="up"
+Last-Modified: Sun, 31 May 2020 09:00:57 GMT
+ETag: "7P812LsbpZAGFoE4rLctmq"
+Date: Sun, 31 May 2020 09:00:57 GMT
+Content-Type: application/json
+Content-Length: 75
+
+{ "rodzaj": "film", "nazwa": "Gladiator", "rok": 2000, "czyWKinach": false}

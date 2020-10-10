@@ -1,0 +1,13 @@
+curl: (6) Could not resolve host: xn--xget-z86a
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fjpO3hYHEUpkzGNlCPjpfoMvCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s19450>; rel="up"
+Last-Modified: Sun, 31 May 2020 09:48:00 GMT
+ETag: "3p24eiH7GYHUHJjWBUHPUk"
+Date: Sun, 31 May 2020 09:49:47 GMT
+Content-Type: application/json
+Content-Length: 18
+
+{"nazwa": "Drive"}

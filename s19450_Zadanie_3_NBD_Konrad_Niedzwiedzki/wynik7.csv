@@ -1,0 +1,9 @@
+﻿Added 7 labels, created 7 nodes, set 17 properties, created 6 relationships, completed after 2 ms.
+
+people.name,movie,Type(relatedTo),relatedTo
+Chris Evans,"{title:Captain America: The First Avenger,tagline:When patriots become heroes,released:2011}",ACTED_IN,{roles:[Captain America / Steve Rogers]}
+Hugo Weaving,"{title:Captain America: The First Avenger,tagline:When patriots become heroes,released:2011}",ACTED_IN,{roles:[Johann Schmidt / Red Skull]}
+Christopher Markus,"{title:Captain America: The First Avenger,tagline:When patriots become heroes,released:2011}",WROTE,{}
+Samuel L. Jackson,"{title:Captain America: The First Avenger,tagline:When patriots become heroes,released:2011}",ACTED_IN,{roles:[Nick Fury]}
+Stephen McFeely,"{title:Captain America: The First Avenger,tagline:When patriots become heroes,released:2011}",WROTE,{}
+Joe Johnston,"{title:Captain America: The First Avenger,tagline:When patriots become heroes,released:2011}",DIRECTED,{}

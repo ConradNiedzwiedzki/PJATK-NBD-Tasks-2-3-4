@@ -1,0 +1,503 @@
+MongoDB shell version v4.2.6
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("34aa34d5-57c6-48c4-95eb-fc58ddd6c6d8") }
+MongoDB server version: 4.2.6
+[
+	{
+		"first_name" : "Wanda",
+		"last_name" : "Burton",
+		"location" : {
+			"city" : "Liangnong"
+		}
+	},
+	{
+		"first_name" : "Irene",
+		"last_name" : "Butler",
+		"location" : {
+			"city" : "Vyaz’ma"
+		}
+	},
+	{
+		"first_name" : "Louis",
+		"last_name" : "Foster",
+		"location" : {
+			"city" : "Aduo"
+		}
+	},
+	{
+		"first_name" : "Martha",
+		"last_name" : "Cook",
+		"location" : {
+			"city" : "Pajé"
+		}
+	},
+	{
+		"first_name" : "Phyllis",
+		"last_name" : "Cunningham",
+		"location" : {
+			"city" : "Tekikbanyuurip"
+		}
+	},
+	{
+		"first_name" : "Alan",
+		"last_name" : "Hayes",
+		"location" : {
+			"city" : "Ngurore"
+		}
+	},
+	{
+		"first_name" : "Ann",
+		"last_name" : "Martin",
+		"location" : {
+			"city" : "Velké Němčice"
+		}
+	},
+	{
+		"first_name" : "Alice",
+		"last_name" : "Henderson",
+		"location" : {
+			"city" : "Liutang"
+		}
+	},
+	{
+		"first_name" : "Clarence",
+		"last_name" : "Berry",
+		"location" : {
+			"city" : "Shuiyuan"
+		}
+	},
+	{
+		"first_name" : "Sharon",
+		"last_name" : "Cole",
+		"location" : {
+			"city" : "Erie"
+		}
+	},
+	{
+		"first_name" : "Emily",
+		"last_name" : "Ross",
+		"location" : {
+			"city" : "Jefferson City"
+		}
+	},
+	{
+		"first_name" : "Phyllis",
+		"last_name" : "Perez",
+		"location" : {
+			"city" : "Saidpur"
+		}
+	},
+	{
+		"first_name" : "Margaret",
+		"last_name" : "Coleman",
+		"location" : {
+			"city" : "Mesa"
+		}
+	},
+	{
+		"first_name" : "Lori",
+		"last_name" : "Kelly",
+		"location" : {
+			"city" : "San Bernardino"
+		}
+	},
+	{
+		"first_name" : "Daniel",
+		"last_name" : "Richards",
+		"location" : {
+			"city" : "Gorskaya"
+		}
+	},
+	{
+		"first_name" : "Justin",
+		"last_name" : "Berry",
+		"location" : {
+			"city" : "Tshikapa"
+		}
+	},
+	{
+		"first_name" : "Ashley",
+		"last_name" : "Stewart",
+		"location" : {
+			"city" : "Lesnyye Polyany"
+		}
+	},
+	{
+		"first_name" : "Willie",
+		"last_name" : "Lynch",
+		"location" : {
+			"city" : "Hongxi"
+		}
+	},
+	{
+		"first_name" : "Jose",
+		"last_name" : "Daniels",
+		"location" : {
+			"city" : "Yurla"
+		}
+	},
+	{
+		"first_name" : "Bobby",
+		"last_name" : "Gibson",
+		"location" : {
+			"city" : "Zavidovo"
+		}
+	},
+	{
+		"first_name" : "Elizabeth",
+		"last_name" : "Graham",
+		"location" : {
+			"city" : "Isesaki"
+		}
+	},
+	{
+		"first_name" : "Joan",
+		"last_name" : "Gray",
+		"location" : {
+			"city" : "Tysmenychany"
+		}
+	},
+	{
+		"first_name" : "Pamela",
+		"last_name" : "Nelson",
+		"location" : {
+			"city" : "Vila Nova da Baronia"
+		}
+	},
+	{
+		"first_name" : "Judy",
+		"last_name" : "Morales",
+		"location" : {
+			"city" : "Slavyansk-na-Kubani"
+		}
+	},
+	{
+		"first_name" : "Sarah",
+		"last_name" : "Stone",
+		"location" : {
+			"city" : "Keleleng"
+		}
+	},
+	{
+		"first_name" : "Gary",
+		"last_name" : "Parker",
+		"location" : {
+			"city" : "Fairview"
+		}
+	},
+	{
+		"first_name" : "Ernest",
+		"last_name" : "Harris",
+		"location" : {
+			"city" : "Ḩarastā"
+		}
+	},
+	{
+		"first_name" : "Anna",
+		"last_name" : "Martinez",
+		"location" : {
+			"city" : "Koilás"
+		}
+	},
+	{
+		"first_name" : "Johnny",
+		"last_name" : "Gonzales",
+		"location" : {
+			"city" : "Camanducaia"
+		}
+	},
+	{
+		"first_name" : "Katherine",
+		"last_name" : "Robinson",
+		"location" : {
+			"city" : "Daxindian"
+		}
+	},
+	{
+		"first_name" : "Ralph",
+		"last_name" : "Spencer",
+		"location" : {
+			"city" : "Floreşti"
+		}
+	},
+	{
+		"first_name" : "Jimmy",
+		"last_name" : "Wheeler",
+		"location" : {
+			"city" : "Shuangxi"
+		}
+	},
+	{
+		"first_name" : "Gary",
+		"last_name" : "Moore",
+		"location" : {
+			"city" : "Kukushtan"
+		}
+	},
+	{
+		"first_name" : "Helen",
+		"last_name" : "Franklin",
+		"location" : {
+			"city" : "Staritsa"
+		}
+	},
+	{
+		"first_name" : "Russell",
+		"last_name" : "Black",
+		"location" : {
+			"city" : "Mandeni"
+		}
+	},
+	{
+		"first_name" : "Eugene",
+		"last_name" : "Harvey",
+		"location" : {
+			"city" : "Neikeng"
+		}
+	},
+	{
+		"first_name" : "Carlos",
+		"last_name" : "Lewis",
+		"location" : {
+			"city" : "Köping"
+		}
+	},
+	{
+		"first_name" : "Lisa",
+		"last_name" : "Jordan",
+		"location" : {
+			"city" : "Tongbang"
+		}
+	},
+	{
+		"first_name" : "Donald",
+		"last_name" : "Thomas",
+		"location" : {
+			"city" : "Povenets"
+		}
+	},
+	{
+		"first_name" : "Benjamin",
+		"last_name" : "Robinson",
+		"location" : {
+			"city" : "Kasoa"
+		}
+	},
+	{
+		"first_name" : "Christine",
+		"last_name" : "Chapman",
+		"location" : {
+			"city" : "Fuhai"
+		}
+	},
+	{
+		"first_name" : "Jimmy",
+		"last_name" : "Carr",
+		"location" : {
+			"city" : "Americana"
+		}
+	},
+	{
+		"first_name" : "Walter",
+		"last_name" : "Owens",
+		"location" : {
+			"city" : "Pyatovskiy"
+		}
+	},
+	{
+		"first_name" : "Doris",
+		"last_name" : "Berry",
+		"location" : {
+			"city" : "Sisŏphŏn"
+		}
+	},
+	{
+		"first_name" : "Ernest",
+		"last_name" : "King",
+		"location" : {
+			"city" : "Shengli"
+		}
+	},
+	{
+		"first_name" : "Kathryn",
+		"last_name" : "Cox",
+		"location" : {
+			"city" : "Gio Linh"
+		}
+	},
+	{
+		"first_name" : "Evelyn",
+		"last_name" : "Fuller",
+		"location" : {
+			"city" : "Şaydnāyā"
+		}
+	},
+	{
+		"first_name" : "Andrea",
+		"last_name" : "Edwards",
+		"location" : {
+			"city" : "Cova Figueira"
+		}
+	},
+	{
+		"first_name" : "Kimberly",
+		"last_name" : "Williams",
+		"location" : {
+			"city" : "Riosucio"
+		}
+	},
+	{
+		"first_name" : "Barbara",
+		"last_name" : "Dunn",
+		"location" : {
+			"city" : "Теарце"
+		}
+	},
+	{
+		"first_name" : "Bonnie",
+		"last_name" : "Kelley",
+		"location" : {
+			"city" : "Erétria"
+		}
+	},
+	{
+		"first_name" : "Betty",
+		"last_name" : "Nichols",
+		"location" : {
+			"city" : "Pendiqing"
+		}
+	},
+	{
+		"first_name" : "George",
+		"last_name" : "Larson",
+		"location" : {
+			"city" : "Stockholm"
+		}
+	},
+	{
+		"first_name" : "Helen",
+		"last_name" : "Carroll",
+		"location" : {
+			"city" : "Zhigong"
+		}
+	},
+	{
+		"first_name" : "Jason",
+		"last_name" : "Mills",
+		"location" : {
+			"city" : "Cimişlia"
+		}
+	},
+	{
+		"first_name" : "Gary",
+		"last_name" : "Edwards",
+		"location" : {
+			"city" : "Pavlysh"
+		}
+	},
+	{
+		"first_name" : "Joshua",
+		"last_name" : "Mccoy",
+		"location" : {
+			"city" : "Glushkovo"
+		}
+	},
+	{
+		"first_name" : "Bobby",
+		"last_name" : "Dean",
+		"location" : {
+			"city" : "Lesnikovo"
+		}
+	},
+	{
+		"first_name" : "Gerald",
+		"last_name" : "Diaz",
+		"location" : {
+			"city" : "Ereira"
+		}
+	},
+	{
+		"first_name" : "Jeffrey",
+		"last_name" : "Anderson",
+		"location" : {
+			"city" : "Deba Habe"
+		}
+	},
+	{
+		"first_name" : "Jimmy",
+		"last_name" : "Hart",
+		"location" : {
+			"city" : "Amuñgan"
+		}
+	},
+	{
+		"first_name" : "Joyce",
+		"last_name" : "Ryan",
+		"location" : {
+			"city" : "Bejsce"
+		}
+	},
+	{
+		"first_name" : "Richard",
+		"last_name" : "Boyd",
+		"location" : {
+			"city" : "Wupu"
+		}
+	},
+	{
+		"first_name" : "Larry",
+		"last_name" : "Peters",
+		"location" : {
+			"city" : "Urcos"
+		}
+	},
+	{
+		"first_name" : "Benjamin",
+		"last_name" : "Barnes",
+		"location" : {
+			"city" : "Damatulan"
+		}
+	},
+	{
+		"first_name" : "Eric",
+		"last_name" : "Stone",
+		"location" : {
+			"city" : "Pahing Pamulihan"
+		}
+	},
+	{
+		"first_name" : "Susan",
+		"last_name" : "Jones",
+		"location" : {
+			"city" : "Aki"
+		}
+	},
+	{
+		"first_name" : "Paula",
+		"last_name" : "Bradley",
+		"location" : {
+			"city" : "Bohumín"
+		}
+	},
+	{
+		"first_name" : "Diane",
+		"last_name" : "Palmer",
+		"location" : {
+			"city" : "San Luis"
+		}
+	},
+	{
+		"first_name" : "Harold",
+		"last_name" : "Lawson",
+		"location" : {
+			"city" : "Woken"
+		}
+	},
+	{
+		"first_name" : "Jason",
+		"last_name" : "Adams",
+		"location" : {
+			"city" : "Qasr Abu Hadi"
+		}
+	}
+]

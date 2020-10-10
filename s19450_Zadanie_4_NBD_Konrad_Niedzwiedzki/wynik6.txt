@@ -1,0 +1,15 @@
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8098 (#0)
+> DELETE /buckets/s19450/keys/Gladiator?returnbody=true HTTP/1.1
+> Host: 127.0.0.1:8098
+> User-Agent: curl/7.47.0
+> Accept: */*
+> 
+< HTTP/1.1 204 No Content
+< Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Date: Sun, 31 May 2020 09:43:19 GMT
+< Content-Type: application/json
+< Content-Length: 0
+< 
+* Connection #0 to host 127.0.0.1 left intact
